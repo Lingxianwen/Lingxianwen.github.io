@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xianwen Ling / Blog"
+title                    : "Xianwen Ling's Blog"
 title_separator          : "-"
-name                     : &name "凌贤文"
+name                     : &name "Xianwen Ling"
 description              : &description "Phd in NJUST"
 url                      : https://lingxianwen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   name             : "Xianwen Ling"
   pronouns         : # example: "she/her"  
   bio              : "Phd in NJUST"
-  location         : "Nanjing,China"
+  location         : "Nanjing, China"
   #employer         : "Red Brick University"
   uri              : # URL
   email            : "17756013567@163.com" 
