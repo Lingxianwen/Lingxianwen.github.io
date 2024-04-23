@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
+* M.S. in Jinhua, Zhejiang Normal University, 2021
+* B.S. in Tongling, Tongling University, 2017
 
 Work experience
 ======
@@ -34,12 +34,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Complex network modeling
+  * Network reliability analysis
+  * Complex network visualization
+* Data mining
+  * Graph neural network
+  * Association rule analysis
+  * Multi-mode matching
 
 Publications
 ======
@@ -47,18 +48,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Participate in a project or competition
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* National key research and development project 2024
+
+Honors & Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* National Scholarship, 2024
+* Outstanding Graduate of Zhejiang Normal University, 2024
+* Outstanding Graduate of Anhui province, 2016
