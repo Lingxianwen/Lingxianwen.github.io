@@ -37,6 +37,6 @@ Participate in a project or competition
 
 Honors & Awards
 ======
-* National Scholarship, 2024
-* Outstanding Graduate of Zhejiang Normal University, 2024
+* National Scholarship, 2023
+* Outstanding Graduate of Zhejiang Normal University, 2023
 * Outstanding Graduate of Anhui province, 2016
