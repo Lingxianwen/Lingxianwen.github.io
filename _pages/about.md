@@ -21,8 +21,8 @@ Education Experience
 
 Honors & Awards
 ======
-* National Scholarship, 2024
-* Outstanding Graduate of Zhejiang Normal University, 2024
+* National Scholarship, 2023
+* Outstanding Graduate of Zhejiang Normal University, 2023
 * Outstanding Graduate of Anhui province, 2016
 
 [Email](mailto:XX@NJUST.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
