@@ -47,4 +47,4 @@ Honors & Awards
 
 [Email](mailto:XX@NJUST.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=191d78&w=268&t=tt&d=LXX4pjP81__3XIjUIxP9nfmHWGGfJ0mM9eTecHM6AqE&co=c2c2c2&ct=fffdfd'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=LXX4pjP81__3XIjUIxP9nfmHWGGfJ0mM9eTecHM6AqE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
