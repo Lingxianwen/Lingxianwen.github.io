@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting as well.
+# A list of all the posts and pages found on the site. For you robots out there is an [XML version]({{ base_path }}/sitemap.xml) available for digesting # as well.
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=191d78&w=268&t=tt&d=LXX4pjP81__3XIjUIxP9nfmHWGGfJ0mM9eTecHM6AqE&co=c2c2c2&ct=fffdfd'></script>
 
 <h2>Pages</h2>
 {% for post in site.pages %}
