@@ -9,9 +9,15 @@ redirect_from:
 
 I'm a First-year doctoral student from [School of Computer Science and Technology](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
 
-My research interest includes Network science, data mining, complex networks.
-
 I am very fortunate to be advised by [Prof. Zhang](http://kunzhangcn.net/) from [School of Computer Science](https://www.njust.edu.cn/), NJUST. 
+
+My research interest includes Network science, complex networks, data mining.
+
+Education Experience
+======
+* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
+* M.S. in Jinhua, Zhejiang Normal University, 2021
+* B.S. in Tongling, Tongling University, 2017
 
 Honors & Awards
 ======
