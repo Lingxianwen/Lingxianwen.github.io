@@ -13,4 +13,11 @@ My research interest includes Network science, data mining, complex networks.
 
 I am very fortunate to be advised by [Prof. Zhang](http://kunzhangcn.net/) from [School of Computer Science](https://www.njust.edu.cn/), NJUST. 
 
+Honors & Awards
+======
+* National Scholarship, 2024
+* Outstanding Graduate of Zhejiang Normal University, 2024
+* Outstanding Graduate of Anhui province, 2016
+
 [Email](mailto:XX@NJUST.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
+
