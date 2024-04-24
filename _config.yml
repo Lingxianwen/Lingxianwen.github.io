@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xianwen Ling's Blog"
+title                    : "Xianwen Ling"
 title_separator          : "-"
 name                     : &name "Xianwen Ling"
 description              : &description "Doctoral student in NJUST"
