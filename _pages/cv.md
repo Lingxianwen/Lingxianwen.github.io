@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education Experience
 ======
 * Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
 * M.S. in Jinhua, Zhejiang Normal University, 2021
