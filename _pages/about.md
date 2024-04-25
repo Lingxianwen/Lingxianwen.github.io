@@ -37,7 +37,17 @@ Publications
   
 Participate in a project or competition
 ======
-* National key research and development project 2024
+* National key research and development project, 2023
+* National Innovation and Entrepreneurship Training Program (hosted), 2019.09-2020.05
+* The Huawei Cup Postgraduate Mathematical Modeling Competition third prize, 2021
+* China University Student Computer Design Competition, 2020
+* Anhui University Student Service Outsourcing Innovation and Entrepreneurship Competition first prize, 2020
+* Anhui Internet of Things Innovation Competition first prize, 2020
+* Anhui Province mathematics contest second prize, 2020
+* Anhui Province information security works competition third prize, 2020
+* Anhui Province Network Attack and Defense Competition (CTF) second prize, 2020
+* Anhui Computer Design Competition second prize, 2020
+* Anhui Robot Competition Program Design Class (ACM) third prize, 2019
 
 Honors & Awards
 ======
