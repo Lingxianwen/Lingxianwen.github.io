@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year doctoral student from [School of Computer Science and Technology](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
+I'm a First-year doctoral student from [School of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
 
 I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of Computer Science](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
 
@@ -25,7 +25,7 @@ Skills
   * Network reliability analysis
   * Complex network visualization
 * Data mining
-  * Graph neural network
+  * Hypergraph neural network
   * Association rule analysis
   * Multi-mode matching
 
@@ -47,4 +47,4 @@ Honors & Awards
 
 [Email](mailto:XX@NJUST.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=LXX4pjP81__3XIjUIxP9nfmHWGGfJ0mM9eTecHM6AqE'></script>
+# <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=LXX4pjP81__3XIjUIxP9nfmHWGGfJ0mM9eTecHM6AqE'></script>
