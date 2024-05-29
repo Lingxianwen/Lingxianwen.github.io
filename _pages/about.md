@@ -13,13 +13,13 @@ I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) f
 
 My research interest includes Network science, complex networks, data mining.
 
-Education Experience
+# Education Experience
 ======
 * Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
 * M.S. in Jinhua, Zhejiang Normal University, 2021
 * B.S. in Tongling, Tongling University, 2017
 
-Skills
+## Skills
 ======
 * Complex network modeling
   * Network reliability analysis
@@ -29,7 +29,7 @@ Skills
   * Association rule analysis
   * Multi-mode matching
 
-Publications
+### Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
