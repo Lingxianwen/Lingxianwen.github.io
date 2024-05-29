@@ -13,14 +13,12 @@ I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) f
 
 My research interest includes Network science, complex networks, data mining.
 
-# Education Experience
-======
+## Education Experience
 * Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
 * M.S. in Jinhua, Zhejiang Normal University, 2021
 * B.S. in Tongling, Tongling University, 2017
 
 ## Skills
-======
 * Complex network modeling
   * Network reliability analysis
   * Complex network visualization
@@ -29,14 +27,12 @@ My research interest includes Network science, complex networks, data mining.
   * Association rule analysis
   * Multi-mode matching
 
-### Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Participate in a project or competition
-======
+## Participate in a project or competition
 * National key research and development project, 2023
 * National Innovation and Entrepreneurship Training Program (hosted), 2019.09-2020.05
 * The Huawei Cup Postgraduate Mathematical Modeling Competition third prize, 2021
@@ -49,8 +45,7 @@ Participate in a project or competition
 * Anhui Computer Design Competition second prize, 2020
 * Anhui Robot Competition Program Design Class (ACM) third prize, 2019
 
-Honors & Awards
-======
+## Honors & Awards
 * National Scholarship, 2023
 * Outstanding Graduate of Zhejiang Normal University, 2023
 * Outstanding Graduate of Anhui province, 2016
