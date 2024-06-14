@@ -47,6 +47,7 @@ My research interest includes Network science, complex networks, data mining.
 
 ## Honors & Awards
 * National Scholarship, 2023
+* Special Award of President of Zhejiang Normal University, 2023
 * Outstanding Graduate of Zhejiang Normal University, 2023
 * Outstanding Graduate of Anhui province, 2016
 
