@@ -32,6 +32,7 @@ My research interest includes Network science, data mining.
   {% endfor %}</ul>
   
 ## Participate in a project or competition
+* ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
 * National key research and development project (participation), 2023
 * National Innovation and Entrepreneurship Training Program (hosted), 2019.09-2020.05
 * The Huawei Cup Postgraduate Mathematical Modeling Competition third prize, 2021
