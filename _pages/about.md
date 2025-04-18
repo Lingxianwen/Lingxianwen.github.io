@@ -19,12 +19,11 @@ My research interest includes Network science, data mining.
 * B.S. in Tongling, Tongling University, 2017
 
 ## Skills
-* Complex network modeling
+* Network science
   * Network reliability analysis
   * Complex network visualization
-* Data mining
-  * Graph neural network
-  * Association rule analysis
+* Network security
+  * Protocol Reverse Engineering
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
