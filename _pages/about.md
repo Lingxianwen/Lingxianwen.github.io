@@ -11,7 +11,7 @@ I'm a First-year doctoral student from [School of Computer Science and Engineeri
 
 I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
 
-My research interest includes Network science, data mining.
+My research interest includes Network science, network security.
 
 ## Education Experience
 * Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
