@@ -20,8 +20,8 @@ My research interest includes Network science, network security.
 
 ## Skills
 * Network science
+  * Complex network modeling
   * Network reliability analysis
-  * Complex network visualization
 * Network security
   * Protocol Reverse Engineering
 
@@ -29,6 +29,9 @@ My research interest includes Network science, network security.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Journal Reviewer
+* Autonomous and Adaptive Communications Systems
   
 ## Participate in a project or competition
 * ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
