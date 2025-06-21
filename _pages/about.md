@@ -31,7 +31,7 @@ My research interest includes Network science, network security.
   {% endfor %}</ul>
 
 ## Journal Reviewer
-* Autonomous and Adaptive Communications Systems
+* International Journal of Autonomous and Adaptive Communications Systems
   
 ## Participate in a project or competition
 * ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
