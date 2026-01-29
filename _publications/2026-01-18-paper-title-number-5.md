@@ -2,7 +2,7 @@
 title: "MULTI-SOURCE TRANSFER LEARNING AND FIELD EXTRACTION FOR CROSS-DOMAIN PROTOCOL REVERSE ENGINEERING"
 collection: publications
 permalink: /publication/2026-01-18-paper-title-number-5
-date: 2025-08-24
+date: 2026-01-18
 venue: 'ICASSP 2026'
 paperurl: 'http://lingxianwen.github.io/files/Ling.pdf'
 citation: 'Xianwen Ling, Kun Zhang∗ and Rong Tong, Xiaohe Wu, Dianying Chen'
